@@ -1,0 +1,5 @@
+int a;
+int i;
+for(i=0;i<n;i=i+1) {
+    a = a+1
+}

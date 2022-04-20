@@ -1,0 +1,8 @@
+int i;
+int c;
+int n;
+int a;
+int b;
+for(i=0; (i<n) && (c>0); i=i+1){
+	c=a+b;
+}
